@@ -1,6 +1,3 @@
-import groovy.transform.CompileStatic
-
-@CompileStatic
 class Class1 {
     final double field1
 
